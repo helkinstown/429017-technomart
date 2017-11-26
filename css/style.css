@@ -1606,18 +1606,21 @@ input[type="radio"] .visually-hidden {
 .slide:nth-child(1) {
   display: block;
   background-image: url("../img/services-delivery.png");
+  background-color: #dee8ec;
   background-repeat: no-repeat;
   background-position: 100% 25px;
 }
 
 .slide:nth-child(2) {
   background-image: url("../img/services-garantee.png");
+  background-color: #dee8ec;
   background-repeat: no-repeat;
   background-position: 100% 10px;
 }
 
 .slide:nth-child(3) {
   background-image: url("../img/services-credit.png");
+  background-color: #dee8ec;
   background-repeat: no-repeat;
   background-position: 100% 10px;
 }
@@ -1689,6 +1692,7 @@ input[type="radio"] .visually-hidden {
 
 .slider-1 {
   background: url("../img/slider-perforator.jpg") no-repeat;
+  background-color: #8b7b6f;
   height: 266px;
   width: 620px;
   border: 1px solid transparent;
@@ -1697,6 +1701,7 @@ input[type="radio"] .visually-hidden {
 .slider-2 {
   display: none;
   background: url("../img/slider-dreli.jpg") no-repeat;
+  background-color: #8b7b6f;
   height: 266px;
   width: 620px;
   border: 1px solid transparent;
