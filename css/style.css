@@ -452,6 +452,7 @@ input[type="radio"] .visually-hidden {
 .banners-button {
   width: 115px;
   display: inline-block;
+  vertical-align: middle;
 
   color: #ffffff;
   font-size: 14px;
@@ -588,6 +589,7 @@ input[type="radio"] .visually-hidden {
   font-size: 17px;
   line-height: 20px;
   text-align: center;
+  vertical-align: middle;
 }
 
 .product-item:hover {
@@ -769,6 +771,7 @@ input[type="radio"] .visually-hidden {
 
 .services h2 {
   display: inline-block;
+  vertical-align: middle;
   margin: 0;
   margin-top: 67px;
   margin-bottom: 29px;
@@ -782,6 +785,7 @@ input[type="radio"] .visually-hidden {
 .about-company h2,
 .contacts h2 {
   display: inline-block;
+  vertical-align: middle;
   margin: 0;
   margin-top: 83px;
   margin-bottom: 29px;
@@ -1710,12 +1714,13 @@ input[type="radio"] .visually-hidden {
 
 .toggle-controls label {
   display: inline-block;
+  vertical-align: top;
   width: 6px;
   height: 6px;
   margin: 0 3px;
   background-color: #ffffff;
   border: 3px solid white;
-  vertical-align: top;
+
   border-radius: 50%;
   cursor: pointer;
 }
@@ -2410,6 +2415,7 @@ input[type="search"]::placeholder {
 .price-controls label {
   font-size: 17px;
   display: inline-block;
+  vertical-align: middle;
   width: 50%;
 }
 
