@@ -1456,6 +1456,11 @@ input[type="radio"] .visually-hidden {
   color: #ffffff;
 }
 
+.pagination-list .pagination-next {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
 .catalog-info-wraper {
   height: 258px;
   background-color: #f2f6f8;
@@ -2452,7 +2457,7 @@ input[type="search"]::placeholder {
   width: 140px;
   height: 38px;
 
-  margin-top: 39px;
+  margin-top: 38px;
 
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-radius: 3px;
