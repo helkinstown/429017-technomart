@@ -1285,7 +1285,7 @@ input[type="radio"] .visually-hidden {
   background-color: black;
 
   top: -63px;
-  left: -38px;
+  left: 0px;
 }
 
 .buttons-sort a {
