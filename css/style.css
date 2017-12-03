@@ -1893,7 +1893,7 @@ input[type="radio"] .visually-hidden {
   text-transform: uppercase;
 }
 
-.catalog-item .button-buy{
+.catalog-item .button-buy {
   position: relative;
   width: 135px;
 
@@ -2469,7 +2469,7 @@ input[type="search"]::placeholder {
   text-transform: uppercase;
 }
 
-.filter-button:hover{
+.filter-button:hover {
   border: 1px solid rgba(0, 0, 0, 1);
 }
 
