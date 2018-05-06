@@ -2529,3 +2529,73 @@ input[type="search"]::placeholder {
   background-image: url("../img/icon-radio-on.png");
   background-repeat: no-repeat;
 }
+
+
+.header{
+  width: 100%;
+  height: 50px;
+  background-color: red;
+  padding-top: 5px;
+}
+
+.wrap{
+  display: flex;
+  background-color: red;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  border-radius: 6px;
+  float: right;
+  background-image: url("img/svg/icon-search1.svg");
+  cursor: pointer;
+}
+
+.wrap:active,
+.wrap:focus{
+  width: 200px;
+  height: 40px;
+  overflow: visible;
+  border-radius: 6px;
+  transition: all ease-in-out .2s;
+}
+
+.input{
+  width: 40px;
+  height: 40px;
+  border-radius: 6px;
+  background-color: red;
+  border: none;
+  padding-left: 10px;
+  cursor: pointer;
+}
+
+.input:hover{
+  background-color: #fff;
+  transition: background-color ease-in-out .5s;
+}
+.input:active,
+.input:focus{
+  background-color: #fff;
+  transition: all ease-in-out .2s;
+  width: 200px;
+  padding-left: 10px;
+  border-radius: 6px;
+}
+
+.logo{
+  position: absolute;
+  top: 15px;
+  right: 10px;
+  width: 20px;
+  height: 20px;
+  z-index: 1000;
+}
+
+
+
+
+
+
+
+
+
